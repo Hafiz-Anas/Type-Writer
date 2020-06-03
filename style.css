@@ -39,3 +39,7 @@ p2 {
     height: 80%;
     border-right: 2px solid white;
 }
+@media screen and (max-width: 500px) {
+    p {font-size: 25px;}
+    p2 {font-size: 15px;}
+}
